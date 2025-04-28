@@ -15,7 +15,7 @@ Segmentation example
 
 5 visualization of current memory
 
-7 menu for selection of what user can do (4 options of add process, delete process, and exit program with visualization being shown every time it returns to that menu?) 
+7 menu for selection of what user can do (4 options of choose algorithm, add process, delete process, and exit program with visualization being shown every time it returns to that menu?) 
 
 Paging example
 
