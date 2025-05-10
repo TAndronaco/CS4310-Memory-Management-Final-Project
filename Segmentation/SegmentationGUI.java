@@ -191,7 +191,7 @@ public class SegmentationGUI extends JFrame {
                 int y = (int) (seg.base * scale);
                 int height = (int) (seg.limit * scale);
 
-                g.setColor(Color.CYAN);
+                g.setColor(Color.YELLOW);
                 g.fillRect(0, y, panelWidth, height);
                 g.setColor(Color.BLACK);
                 g.drawRect(0, y, panelWidth, height);
