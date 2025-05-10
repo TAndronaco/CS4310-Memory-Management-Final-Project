@@ -1,5 +1,5 @@
 # CS4310-Memory-Management-Final-Project
-Examples for OS Memory Management will have the jar files for the programs located within the ___ file. Within there will be two programs, ClockReplacement.jar and ____.jar, which can both re ran. The other files contain source code within their respective files.
+Examples for OS Memory Management will have the jar files for the programs located within the Jars file. Within there will be two programs, ClockReplacement.jar and Segmentation.jar, which can both re ran. The other files contain source code within their respective files.
 
 # Clock Replacement Usage
 Java -jar ClockReplacement.jar
